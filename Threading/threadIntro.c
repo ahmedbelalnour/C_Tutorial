@@ -11,6 +11,8 @@
 
 #define NUMTHRDS 2
 
+int coin_flip;
+
 pthread_t t [ NUMTHRDS];
 
 
